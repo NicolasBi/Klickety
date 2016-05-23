@@ -1,2 +1,6 @@
 # Klickety
-A game where you need to remove all the tiles from the board
+A simple puzzle game made in Python 3.
+
+The goal of the game is to remove all the tiles frome the board.
+
+If you click on one colored tile, all the tiles around it with the same color will disapear.
